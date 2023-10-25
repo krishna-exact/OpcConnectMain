@@ -10,7 +10,7 @@ if (!command_to_run) {
 }
 var firstword = command_to_run.split(' ')[0];
 console.log(command_to_run)
-console.log("program application", firstword)
+console.log("program application", firstword)    
 
 
 start = (configId) => {   
